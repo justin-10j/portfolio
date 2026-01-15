@@ -109,7 +109,7 @@ Network Mining, Data Storage Solutions for Data Analytics.</li>
             <h2>Projects</h2>
             <div class="pro">
             <div class="pro-head">
-                <h3><strong>CV Dynamic Single Page Application (SPA) Portfolio</strong></h3>
+                <h3><strong>CV Dynamic Single Page Application (SPA) Portfolio <a href="https://github.com/justin-10j/portfolio" target="_blank">"Link"</a></strong></h3>
                 <span class="pro-date">Jan 2026</span>
             </div>
             <ul>
