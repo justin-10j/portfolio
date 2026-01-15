@@ -75,7 +75,7 @@ Network Mining, Data Storage Solutions for Data Analytics.</li>
             
                 <div>
                     
-                    <p><strong>Languages:</strong> SQL, Python (Pandas, NumPy),R, Scikit-learn, TensorFlow, ML Algorithms.</p>
+                    <p><strong>Languages:</strong> SQL, Python (Pandas, NumPy),R, Scikit-learn, TensorFlow, ML Algorithms, HTML, CSS, JavaScript.</p>
                     <p><strong>Google Workspace:</strong>  Google Apps Script, PLX, Google Analytics</p>
                     <p><strong>Tools:</strong> Looker Studio, Microsoft Excel, Google Sheets, Google Slides, Docs, VM Using Azure Cloud</p>
                     <p><strong>Platforms:</strong> Jupyter Notebook, Google Colab, Microsoft Office , R Studio, Visual Studio, Azure Cloud</p>
