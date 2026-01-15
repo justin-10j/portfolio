@@ -109,12 +109,12 @@ Network Mining, Data Storage Solutions for Data Analytics.</li>
             <h2>Projects</h2>
             <div class="pro">
             <div class="pro-head">
-                <h3><strong>CV Dynamic Single Page Application (SPA) Portfolio <a href="https://github.com/justin-10j/portfolio" target="_blank">"Link"</a></strong></h3>
+                <h3><strong>CV Dynamic Single Page Application (SPA) Portfolio <a href="https://justin-10j.github.io/portfolio/" target="_blank"></strong>Link</a></h3>
                 <span class="pro-date">Jan 2026</span>
             </div>
             <ul>
-                <li><strong>Tools Used:</strong> HTML5, CSS3, Vanilla JavaScript</li>
-                <li><strong>Description:</strong> Designed and developed a high-performance, responsive personal portfolio website from scratch to showcase professional milestones in QA and Data Analytics.</li>
+                <li><strong>Tools Used:</strong> HTML5, CSS3, Vanilla JavaScript, Git</li>
+                <li><strong>Description:</strong><a href="https://github.com/justin-10j/portfolio" target="_blank"></strong>GitHub_Link</a><br> Designed and developed a high-performance, responsive personal portfolio website from scratch to showcase professional milestones in QA and Data Analytics.</li>
             </ul>
             </div>
         <br>
