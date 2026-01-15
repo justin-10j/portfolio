@@ -114,7 +114,7 @@ Network Mining, Data Storage Solutions for Data Analytics.</li>
             </div>
             <ul>
                 <li><strong>Tools Used:</strong> HTML5, CSS3, Vanilla JavaScript, Git</li>
-                <li><strong>Description: </strong>&nbsp;<a href="https://github.com/justin-10j/portfolio" target="_blank"> GitHub_Link</a>&nbsp;<br> Designed and developed a high-performance, responsive personal portfolio website from scratch to showcase professional milestones in QA and Data Analytics.</li>
+                <li><strong>Description: </strong>&nbsp;<a href="https://github.com/justin-10j/portfolio" target="_blank">GitHub_Link</a>&nbsp;<br> Designed and developed a high-performance, responsive personal portfolio website from scratch to showcase professional milestones in QA and Data Analytics.</li>
             </ul>
             </div>
         <br>
