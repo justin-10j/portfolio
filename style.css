@@ -1,0 +1,126 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    background: #f4f4f9;
+}
+
+header {
+    background: #2c3e50;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+nav {
+    margin-top: 1rem;
+}
+
+.nav-link {
+    color: #ecf0f1;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    border-bottom: 2px solid transparent;
+}
+
+    .nav-link:hover {
+        border-bottom: 2px solid #3498db;
+    }
+
+main {
+    max-width: 800px;
+    margin: 2rem auto;
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 600px) {
+    .grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.job-header {
+    display: flex;
+    justify-content: space-between; /* Pushes title to left and date to right */
+    align-items: baseline; /* Aligns them nicely along the text bottom */
+    margin-bottom: 5px;
+}
+
+.job-date {
+    font-style: italic;
+    color: #666;
+    font-weight: bold;
+}
+
+/* Ensure headings inside the header don't add extra space */
+.job-header h3 {
+    margin: 0;
+}
+
+/* Removes default margins from headers in the education section */
+.edu-head h3 {
+    margin: 0;
+}
+
+/* Styles the school name to be a close sub-heading */
+.edu-school {
+    margin-top: 2px; /* Very small gap from the title above */
+    margin-bottom: 10px; /* Space before the bullet points start */
+    font-weight: 500;
+    color: #555; /* Professional grey sub-heading color */
+}
+
+/* Ensures the flex container doesn't add extra height */
+.edu-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+/* Removes default margins from headers in the education section */
+ .pro-head h3 {
+    margin: 0;
+ }
+
+
+/* Ensures the flex container doesn't add extra height */
+.pro-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+}
