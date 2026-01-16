@@ -4,18 +4,17 @@
             <h2>Professional Summary</h2>
             <p>Results driven QA and Data Engineer with 4 years of experience and a strong foundation in secure, high-quality code and agile methodologies. Currently pursuing a Master's degree in Data Analytics to embark on a career in Data Science or ML and AI field.</p>
             <p>My professional background includes direct experience in excellent client service and testing roles, providing a solid foundation in data-driven decision-making, meticulous attention to detail, with Python, SQL and Google workspace. Proficient knowledge in Machine Learning, R, and Analytical tools such as LookerStudio.</p>
-            
             <br>
             <h3>About Me</h3>
             <p>My career has been defined by a "fighting spirit" and a drive to master complex systems. I began as a bio-math student who pivoted into Electrical and Electronics Engineering, a transition that required intense dedication and a high learning curve. This foundation allowed me to not only secure an off-campus placement but to thrive within an IT firm where I discovered my passion for building high-impact tools.
-<br>I don’t just build code; I build efficiency. My proudest achievement was receiving the <strong>Inspiring Innovator Award (ACE) in FY25</strong>. I developed 12 automation and dashboard tools that directly improved project accuracy and product performance. This experience solidified my desire to move beyond standard engineering and into the realms of Data Science and Machine Learning, where I can apply this same innovative mindset to more complex data challenges.
-<br>When I’m not optimizing workflows, I’m likely drawing on the leadership skills I developed as a Volunteer Secretary for the National Service Scheme (NSS). Serving the community for two years taught me that the best technical solutions are the ones that have a real-world, positive impact on people. I am now focused on leveraging my engineering background to build the next generation of AI-driven solutions.</p>
-        <br>
-        <div class="contact-info">
+            <br>I don’t just build code; I build efficiency. My proudest achievement was receiving the <strong>Inspiring Innovator Award (ACE) in FY25</strong>. I developed 12 automation and dashboard tools that directly improved project accuracy and product performance. This experience solidified my desire to move beyond standard engineering and into the realms of Data Science and Machine Learning, where I can apply this same innovative mindset to more complex data challenges.
+            <br>When I’m not optimizing workflows, I’m likely drawing on the leadership skills I developed as a Volunteer Secretary for the National Service Scheme (NSS). Serving the community for two years taught me that the best technical solutions are the ones that have a real-world, positive impact on people. I am now focused on leveraging my engineering background to build the next generation of AI-driven solutions.</p>
+            <br>
+                <div class="contact-info">
                 <p>📍 Dublin, Ireland | 📧 justin1998john@gmail.com</p>
                 <p> 📞 +353 892037560 </p>
                 <p>🔗 <a href="https://www.linkedin.com/in/justin-john-4398601a6" target="_blank">LinkedIn Profile</a> |       <a href ="https://github.com/justin-10j" target="_blank">GitHub Profile</a></p>
-            </div>
+                </div>
         </section>
     `,
     experience: `
