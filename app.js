@@ -91,7 +91,7 @@ Network Mining, Data Storage Solutions for Data Analytics.</li>
                 </div>
                 <br>
                 <div>
-                    <h3>Certifications</h3>
+                    <h2>Certifications</h2>
                     <ul>
                     <li>Microsoft Azure AZ-900 Foundation</li>
                     <li>PL-900: Microsoft Power Platform Fundamentals</li>
