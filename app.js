@@ -52,7 +52,7 @@
         <h2><strong>Education</strong></h2>
         <div class="edu">
             <div class="edu-head">
-                <h3><strong>MSc in Data Analytics</strong></h3>
+                <h3>MSc in Data Analytics</h3>
                 <span class="edu-date">Sep 2025 - Present</span>
             </div>
             <p class="edu-school">Dublin Business School, Ireland</p>
@@ -65,7 +65,7 @@ Network Mining, Data Storage Solutions for Data Analytics.</li>
 
         <div class="edu">
             <div class="edu-head">
-                <h3><strong>B.Tech in Electrical and Electronics Engineering</strong></h3>
+                <h3>B.Tech in Electrical and Electronics Engineering</h3>
                 <span class="edu-date">Sep 2017 - June 2021</span>
             </div>
             <p class="edu-school">Sree Buddha College of Engineering, Alappuzha, India <br>
