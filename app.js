@@ -122,7 +122,7 @@ Network Mining, Data Storage Solutions for Data Analytics.</li>
             </div>
             <ul>
                 <li><strong>Tools Used:</strong> HTML5, CSS3, Vanilla JavaScript, Git</li>
-                <li><strong>Description:</strong><a href="https://github.com/justin-10j/portfolio" target="_blank">GitHub_Link</a> <br>Designed and developed a high-performance, responsive personal portfolio website from scratch to showcase professional milestones in QA and Data Analytics.</li>
+                <li><strong>Description:</strong> <a href="https://github.com/justin-10j/portfolio" target="_blank">GitHub Link</a> <br>Designed and developed a high-performance, responsive personal portfolio website from scratch to showcase professional milestones in QA and Data Analytics.</li>
             </ul>
             </div>
         <br>
@@ -133,7 +133,7 @@ Network Mining, Data Storage Solutions for Data Analytics.</li>
             </div>
             <ul>
                 <li><strong>Tools Used:</strong> Python, TensorFlow/Keras, CNN, Feedforward Neural Networks (FNN), Random Forest</li>
-                <li><strong>Description:</strong> Developed an automated Non-Destructive Evaluation system to classify 7 types of defects in screen-printed electrodes. Engineered 6 discriminative image features to achieve 81.82% accuracy with Random Forest, significantly outperforming deep learning architectures in industrial quality control.</li>
+                <li><strong>Description:</strong> <a href="https://github.com/justin-10j/Automated-Quality-Control-for-Electrode-Manufacturing---Machine-Learning-Prediction/" target="_blank">GitHub Link</a> <br>Developed an automated Non-Destructive Evaluation system to classify 7 types of defects in screen-printed electrodes. Engineered 6 discriminative image features to achieve 81.82% accuracy with Random Forest, significantly outperforming deep learning architectures in industrial quality control.</li>
             </ul>
             </div>
         <br>
@@ -144,7 +144,7 @@ Network Mining, Data Storage Solutions for Data Analytics.</li>
             </div>
             <ul>
                 <li><strong>Tools Used:</strong> Python, JSON, Azure Virtual Machine, MariaDB.</li>
-                <li><strong>Description:</strong> Engineered a complete ETL pipeline to harvest real-time flight itinerary data from the Skyscanner API. Built and managed a cloud-hosted MariaDB database on Azure to store transformed JSON data, enabling automated extraction and structured analysis of travel itineraries.</li>
+                <li><strong>Description:</strong> <a href="https://github.com/justin-10j/-Automated-Flight-Data-ETL-Pipeline-Skyscanner"target="_blank">GitHub Link</a> <br>Engineered a complete ETL pipeline to harvest real-time flight itinerary data from the Skyscanner API. Built and managed a cloud-hosted MariaDB database on Azure to store transformed JSON data, enabling automated extraction and structured analysis of travel itineraries.</li>
             </ul>
             </div>
          <br>
@@ -155,7 +155,7 @@ Network Mining, Data Storage Solutions for Data Analytics.</li>
             </div>
             <ul>
                 <li><strong>Tools Used:</strong> Python (Scikit-learn, Pandas, NumPy), SVM, Decision Tree, Random Forest.</li>
-                <li><strong>Description:</strong> Engineered a complete ETL pipeline to harvest real-time flight itinerary data from the Skyscanner API. Built and managed a cloud-hosted MariaDB database on Azure to store transformed JSON data, enabling automated extraction and structured analysis of travel itineraries.</li>
+                <li><strong>Description:</strong> <a href="https://github.com/justin-10j/Multi-Class-Diabetes-Prediction---ML"target="_blank">GitHub Link</a> <br>Engineered a complete ETL pipeline to harvest real-time flight itinerary data from the Skyscanner API. Built and managed a cloud-hosted MariaDB database on Azure to store transformed JSON data, enabling automated extraction and structured analysis of travel itineraries.</li>
             </ul>
             </div>
 
