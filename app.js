@@ -9,6 +9,11 @@
                 <p> 📞 +353 892037560 </p>
                 <p>🔗 <a href="https://www.linkedin.com/in/justin-john-4398601a6" target="_blank">LinkedIn Profile</a> |       <a href ="https://github.com/justin-10j" target="_blank">GitHub Profile</a></p>
             </div>
+            <h3>About Me</h3>
+            <p>My career has been defined by a "fighting spirit" and a drive to master complex systems. I began as a bio-math student who pivoted into Electrical and Electronics Engineering—a transition that required intense dedication and a high learning curve. This foundation allowed me to not only secure an off-campus placement but to thrive within an IT firm where I discovered my passion for building high-impact tools.
+<br>I don’t just build code; I build efficiency. My proudest achievement was receiving the Inspiring Innovator Award (ACE) in FY25. I developed 12 automation and dashboard tools that directly improved project accuracy and product performance. This experience solidified my desire to move beyond standard engineering and into the realms of Data Science and Machine Learning, where I can apply this same innovative mindset to more complex data challenges.
+<br>When I’m not optimizing workflows, I’m likely drawing on the leadership skills I developed as a Volunteer Secretary for the National Service Scheme (NSS). Serving the community for two years taught me that the best technical solutions are the ones that have a real-world, positive impact on people. I am now focused on leveraging my engineering background to build the next generation of AI-driven solutions.</p>
+
         </section>
     `,
     experience: `
